@@ -1,0 +1,4 @@
+name: test
+version: 1.0
+main: me.men8.manager.main.Main
+author: men8
